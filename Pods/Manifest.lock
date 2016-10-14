@@ -1,0 +1,97 @@
+PODS:
+  - AFNetworking (2.5.4):
+    - AFNetworking/NSURLConnection (= 2.5.4)
+    - AFNetworking/NSURLSession (= 2.5.4)
+    - AFNetworking/Reachability (= 2.5.4)
+    - AFNetworking/Security (= 2.5.4)
+    - AFNetworking/Serialization (= 2.5.4)
+    - AFNetworking/UIKit (= 2.5.4)
+  - AFNetworking/NSURLConnection (2.5.4):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.5.4):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.5.4)
+  - AFNetworking/Security (2.5.4)
+  - AFNetworking/Serialization (2.5.4)
+  - AFNetworking/UIKit (2.5.4):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - Bugly (2.4.2)
+  - DACircularProgress (2.3.1)
+  - DZNEmptyDataSet (1.8.1)
+  - HexColors (2.2.1)
+  - IQKeyboardManager (4.0.6)
+  - MJExtension (3.0.13)
+  - MJRefresh (3.1.12)
+  - MZAppearance (1.1.6)
+  - MZFormSheetController (3.1.3):
+    - MZAppearance
+    - MZFormSheetController/Core (= 3.1.3)
+  - MZFormSheetController/Core (3.1.3):
+    - MZAppearance
+  - NJKWebViewProgress (0.2.3):
+    - NJKWebViewProgress/Core (= 0.2.3)
+    - NJKWebViewProgress/ProgressView (= 0.2.3)
+  - NJKWebViewProgress/Core (0.2.3)
+  - NJKWebViewProgress/ProgressView (0.2.3)
+  - ReactiveCocoa (2.5):
+    - ReactiveCocoa/UI (= 2.5)
+  - ReactiveCocoa/Core (2.5):
+    - ReactiveCocoa/no-arc
+  - ReactiveCocoa/no-arc (2.5)
+  - ReactiveCocoa/UI (2.5):
+    - ReactiveCocoa/Core
+  - SDCycleScrollView (1.65):
+    - SDWebImage (~> 3.7)
+  - SDWebImage (3.8.2):
+    - SDWebImage/Core (= 3.8.2)
+  - SDWebImage/Core (3.8.2)
+  - SSKeychain (1.4.1)
+  - SWTableViewCell (0.3.7)
+  - TSMessages (0.9.12):
+    - HexColors (~> 2.2.0)
+  - UzysAssetsPickerController (0.9.9)
+
+DEPENDENCIES:
+  - AFNetworking (~> 2.5.4)
+  - Bugly (~> 2.1)
+  - DACircularProgress
+  - DZNEmptyDataSet
+  - IQKeyboardManager
+  - MJExtension
+  - MJRefresh
+  - MZFormSheetController
+  - NJKWebViewProgress
+  - ReactiveCocoa (~> 2.5)
+  - SDCycleScrollView (~> 1.64)
+  - SDWebImage
+  - SSKeychain
+  - SWTableViewCell
+  - TSMessages
+  - UzysAssetsPickerController
+
+SPEC CHECKSUMS:
+  AFNetworking: 05edc0ac4c4c8cf57bcf4b84be5b0744b6d8e71e
+  Bugly: b09cd3c7e54048a0e079be88a7a99610f14eab8f
+  DACircularProgress: 4dd437c0fc3da5161cb289e07ac449493d41db71
+  DZNEmptyDataSet: 9525833b9e68ac21c30253e1d3d7076cc828eaa7
+  HexColors: abfd172e329dab59888614ccba6f216cec59289d
+  IQKeyboardManager: c52debb1967799ae7addb98eab0cf328083a874f
+  MJExtension: 5932755f451458eefa24239358817f8d291240c7
+  MJRefresh: b96cdb21c4aa75a7b07654311ab2f315c497e806
+  MZAppearance: 0c06d3fa9cc55142f1da14bc8631fbe8fd6e19d5
+  MZFormSheetController: da2df509805d757e04b052915057d8e1a338b050
+  NJKWebViewProgress: f481fd424cb5ecc27eacae11b5397db92fba9a4d
+  ReactiveCocoa: e2db045570aa97c695e7aa97c2bcab222ae51f4a
+  SDCycleScrollView: f72904c77698a7f93a41bcbbc2d78b073bf7326c
+  SDWebImage: 098e97e6176540799c27e804c96653ee0833d13c
+  SSKeychain: 55cc80f66f5c73da827e3077f02e43528897db41
+  SWTableViewCell: 2a94aadc9d47b2b611fa064566bf57948b95b579
+  TSMessages: c8cc7b80f2a833af533872cd02010cac061532cc
+  UzysAssetsPickerController: 47c27bd96955467925f3d4d80b1e2e8aaeff766d
+
+COCOAPODS: 0.39.0
